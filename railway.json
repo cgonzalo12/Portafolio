@@ -4,6 +4,6 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "startCommand": "dotnet PortfolioCapararo.Api.dll"
+    "startCommand": "dotnet run --project PortafolioCapararo/PortafolioCapararo.csproj"
   }
 }
