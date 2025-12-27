@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PortfolioCapararo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80bf09be5447da56a1880363efbd85c3c7b1678d")]
-[assembly: System.Reflection.AssemblyProductAttribute("PortfolioCapararo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PortfolioCapararo")]
+[assembly: System.Reflection.AssemblyProductAttribute("Domain")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

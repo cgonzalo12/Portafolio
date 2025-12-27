@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B35BECB-0355-4D54-8D10-63021FCBD364}|PortfolioCapararo\\PortfolioCapararo.csproj|c:\\users\\capgo\\onedrive\\escritorio\\frelance\\portafolio\\portfoliocapararo\\portfoliocapararo\\portfoliocapararo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B35BECB-0355-4D54-8D10-63021FCBD364}|PortfolioCapararo\\PortfolioCapararo.csproj|solutionrelative:portfoliocapararo\\portfoliocapararo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B1CEEB-25C1-49F3-A803-7ED29480D260}|Infraestructure\\Infraestructure.csproj|c:\\users\\capgo\\onedrive\\escritorio\\frelance\\portafolio\\portfoliocapararo\\infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8B1CEEB-25C1-49F3-A803-7ED29480D260}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD7FDBC-674B-45C0-9420-26EAA4F77279}|Domain\\Domain.csproj|c:\\users\\capgo\\onedrive\\escritorio\\frelance\\portafolio\\portfoliocapararo\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DD7FDBC-674B-45C0-9420-26EAA4F77279}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C95C69-F5F0-4B6F-B422-23D3B5F6CC48}|Application\\Application.csproj|c:\\users\\capgo\\onedrive\\escritorio\\frelance\\portafolio\\portfoliocapararo\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06C95C69-F5F0-4B6F-B422-23D3B5F6CC48}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B35BECB-0355-4D54-8D10-63021FCBD364}|PortfolioCapararo\\PortfolioCapararo.csproj|c:\\users\\capgo\\onedrive\\escritorio\\frelance\\portafolio\\portfoliocapararo\\portfoliocapararo\\portfoliocapararo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5B35BECB-0355-4D54-8D10-63021FCBD364}|PortfolioCapararo\\PortfolioCapararo.csproj|solutionrelative:portfoliocapararo\\portfoliocapararo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B35BECB-0355-4D54-8D10-63021FCBD364}|PortfolioCapararo\\PortfolioCapararo.csproj|c:\\users\\capgo\\onedrive\\escritorio\\frelance\\portafolio\\portfoliocapararo\\portfoliocapararo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B35BECB-0355-4D54-8D10-63021FCBD364}|PortfolioCapararo\\PortfolioCapararo.csproj|solutionrelative:portfoliocapararo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,19 +114,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PortfolioCapararo",
+              "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\PortfolioCapararo\\PortfolioCapararo.csproj",
+              "RelativeDocumentMoniker": "PortfolioCapararo\\PortfolioCapararo.csproj",
+              "ToolTip": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\PortfolioCapararo\\PortfolioCapararo.csproj",
+              "RelativeToolTip": "PortfolioCapararo\\PortfolioCapararo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-27T21:08:55.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SkillController.cs",
-              "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\PortfolioCapararo\\Controllers\\SkillController.cs",
-              "RelativeDocumentMoniker": "PortfolioCapararo\\Controllers\\SkillController.cs",
-              "ToolTip": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\PortfolioCapararo\\Controllers\\SkillController.cs",
-              "RelativeToolTip": "PortfolioCapararo\\Controllers\\SkillController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T02:16:21.636Z"
+              "Title": "Infraestructure",
+              "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\Infraestructure\\Infraestructure.csproj",
+              "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
+              "ToolTip": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\Infraestructure\\Infraestructure.csproj",
+              "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-27T21:08:48.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-27T21:08:39.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-27T21:08:28.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PortfolioCapararo.http",
+              "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\PortfolioCapararo\\PortfolioCapararo.http",
+              "RelativeDocumentMoniker": "PortfolioCapararo\\PortfolioCapararo.http",
+              "ToolTip": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\PortfolioCapararo\\PortfolioCapararo.http",
+              "RelativeToolTip": "PortfolioCapararo\\PortfolioCapararo.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-27T21:07:53.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PersonalInfoController.cs",
               "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\PortfolioCapararo\\Controllers\\PersonalInfoController.cs",
               "RelativeDocumentMoniker": "PortfolioCapararo\\Controllers\\PersonalInfoController.cs",
@@ -118,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ExperienceController.cs",
               "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\PortfolioCapararo\\Controllers\\ExperienceController.cs",
               "RelativeDocumentMoniker": "PortfolioCapararo\\Controllers\\ExperienceController.cs",
@@ -130,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "EducationController.cs",
               "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\PortfolioCapararo\\Controllers\\EducationController.cs",
               "RelativeDocumentMoniker": "PortfolioCapararo\\Controllers\\EducationController.cs",
@@ -142,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "CreateProjectCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\Infraestructure\\Command\\CreateProjectCommandHandler.cs",
               "RelativeDocumentMoniker": "Infraestructure\\Command\\CreateProjectCommandHandler.cs",
@@ -154,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "GetAllProjectsQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\Infraestructure\\Query\\GetAllProjectsQueryHandler.cs",
               "RelativeDocumentMoniker": "Infraestructure\\Query\\GetAllProjectsQueryHandler.cs",
@@ -166,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\PortfolioCapararo\\Program.cs",
               "RelativeDocumentMoniker": "PortfolioCapararo\\Program.cs",
@@ -179,7 +252,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "SkillController.cs",
+              "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\PortfolioCapararo\\Controllers\\SkillController.cs",
+              "RelativeDocumentMoniker": "PortfolioCapararo\\Controllers\\SkillController.cs",
+              "ToolTip": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\PortfolioCapararo\\Controllers\\SkillController.cs",
+              "RelativeToolTip": "PortfolioCapararo\\Controllers\\SkillController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T02:16:21.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProjectController.cs",
               "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\PortfolioCapararo\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "PortfolioCapararo\\Controllers\\ProjectController.cs",
@@ -191,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "ProjectService.cs",
               "DocumentMoniker": "C:\\Users\\capgo\\OneDrive\\Escritorio\\Frelance\\portafolio\\PortfolioCapararo\\Application\\Service\\ProjectService.cs",
               "RelativeDocumentMoniker": "Application\\Service\\ProjectService.cs",
