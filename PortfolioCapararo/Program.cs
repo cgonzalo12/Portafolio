@@ -167,8 +167,10 @@ app.UseSwaggerUI(c =>
 });
 
 //app.UseHttpsRedirection();
-app.UseCors("AllowFrontend");
 app.UseRouting();
+
+app.UseCors("AllowFrontend");
+
 app.UseAuthorization();
 
 // Test endpoint
