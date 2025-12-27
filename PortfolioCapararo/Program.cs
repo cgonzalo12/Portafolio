@@ -33,7 +33,7 @@ try
         EndPoints = { "redis-10086.c57.us-east-1-4.ec2.cloud.redislabs.com:10086" },
         User = "default",
         Password = "SdMsBfK8VbukBWurmNWcIQSxusrNtCkD",
-        Ssl = false, // ⚠️ CAMBIO: Sin SSL para este endpoint
+        Ssl = true, // ⚠️ CAMBIO: Sin SSL para este endpoint
         AbortOnConnectFail = false,
         ConnectTimeout = 15000,
         SyncTimeout = 15000,
