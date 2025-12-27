@@ -1,0 +1,11 @@
+[phases.setup]
+nixPkgs = ["dotnet-sdk_8"]
+
+[phases.build]
+cmds = [
+  "dotnet restore PortfolioCapararo.sln",
+  "dotnet build PortfolioCapararo.sln -c Release"
+]
+
+[phases.start]
+cmd = "dotnet PortfolioCapararo/bin/Release/net8.0/PortfolioCapararo.dll --urls http://0.0.0.0:$PORT"
