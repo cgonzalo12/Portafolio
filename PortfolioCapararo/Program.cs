@@ -117,14 +117,26 @@ catch (Exception ex)
     Console.WriteLine($"❌ Error configurando Redis: {ex.Message}");
 }
 
-// CORS
+// CORS - Permite todos los subdominios de Vercel (solo para desarrollo)
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
     {
-        policy.WithOrigins("http://localhost:5500", "http://127.0.0.1:5500", "http://localhost:3000", "https://portafolio-front-end-eight.vercel.app")
-              .AllowAnyMethod()
-              .AllowAnyHeader();
+        policy.SetIsOriginAllowed(origin =>
+        {
+            // Permite localhost
+            if (origin.StartsWith("http://localhost") || origin.StartsWith("http://127.0.0.1"))
+                return true;
+
+            // Permite todos los subdominios de Vercel
+            if (origin.Contains(".vercel.app"))
+                return true;
+
+            return false;
+        })
+        .AllowAnyMethod()
+        .AllowAnyHeader()
+        .AllowCredentials();
     });
 });
 
